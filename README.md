@@ -41,7 +41,7 @@ The coldest month is Month 3 with an average temperature of -83.3073°C.
 The warmest month is Month 8 with an average temperature of -68.383°C.
 
 ##### 3. Which month, on average, has the lowest atmospheric pressure? The highest?
-Month 6 has the lowest atmospheric pressure with an average pressure of745.054 Pascals.
+Month 6 has the lowest atmospheric pressure with an average pressure of 745.054 Pascals.
 Month 9 has the greatest atmospheric pressure with an average pressure of 913.306 Pascals.
 
 ##### 4. How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
